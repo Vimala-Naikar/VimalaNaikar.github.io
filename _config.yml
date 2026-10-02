@@ -1,0 +1,10 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: VimalaNaikar.github.io
+description: A personal portfolio website showcasing my skills, projects, and journey as an aspiring Data Scientist. 
+It highlights my knowledge of Python, SQL, Machine Learning, Data Analytics, and web development, 
+along with my academic background and hands-on projects.
+The website serves as a platform to showcase my technical skills, explore my projects, 
+and share my professional journey as I continue learning and growing in the fields of Data Science 
+and Artificial Intelligence.
